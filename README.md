@@ -9,8 +9,7 @@ In this lab i'm going to go through the steps of onboarding new users and creati
 <h2>Utilities Used</h2>
 
 - <b>Oracle Virtualbox Manager</b> 
-- <b>Windows Server 2022: WIN-SER-EBrendan</b>
-- <b>PowerShell</b> 
+- <b>Windows Server 2022: WIN-SER-EBrendan</b> 
 
 <h2>Environments Used </h2>
 
