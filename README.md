@@ -1,8 +1,8 @@
-<h1>Raspberry pie</h1>
+# Active-Directory
 
 
 <h2>Description</h2>
-In this lab i'm going to go through the steps of onboarding new users and creating new user accounts on my local Windows Server 2022 AD instance.  I will choose a non-management Pixell River (practice organization) user and create AD user account. I will also provide a unique temporary password for each account. I will also ensure that they are using good password practices to configure the accounts and provide unique passwords for each account.
+In this lab, I'm going to go through the steps of onboarding new users and creating new user accounts on my local Windows Server 2022 AD instance.  I will choose a non-management Pixell River (practice organization) user and create AD user account. I will also provide a unique temporary password for each account. I will also ensure that they are using good password practices to configure the accounts and provide unique passwords for each account.
 <br />
 
 
